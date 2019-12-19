@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
     public void setColor(int num) {
 
         if (num == 2000)
-            moneyText.setTextColor(Color.Blue);
+            moneyText.setTextColor(Color.BLUE);
 
     }
 
