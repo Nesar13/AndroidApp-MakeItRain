@@ -67,6 +67,8 @@ public class MainActivity extends AppCompatActivity {
 
          */
 
+        moneyText.setTextColor(getResources().getColor(R.color.Nesar_blue));
+
         moneyText.setTextColor(Color.GREEN);
 
         switch (moneyCounter) {
